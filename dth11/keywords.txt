@@ -1,0 +1,13 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+dht11	KEYWORD1
+read     KEYWORD1
+humidity     KEYWORD2
+temperature     KEYWORD2
+
